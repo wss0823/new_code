@@ -1,5 +1,5 @@
 ﻿Git is a version control system.
 Git is free software.
-Git是一个分布式版本控制系统。
-Git是免费的软件。
-这个是回退的内容
+Git是一个分布式版本控制系统。 git add git commit -m "提交内容"
+Git是免费的软件。git status
+这个是回退的内容 git log; git reset --hard commint_id(版本id)

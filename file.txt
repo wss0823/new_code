@@ -5,3 +5,5 @@ Git是免费的软件。git status
 这个是回退的内容 git log; git reset --hard commint_id(版本id)
 这个是修改了的未提交回滚命令 git checkout -- life.txt
 我再次修改等待删除
+我推送文件至github git push -u origin master git push -u(第一次实现关联) origin(远程库的名字自己定义的) master（当前分支master）
+推送文件之服务器 git push origin master

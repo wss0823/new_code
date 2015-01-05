@@ -4,3 +4,4 @@ Git是一个分布式版本控制系统。 git add git commit -m "提交内容"
 Git是免费的软件。git status
 这个是回退的内容 git log; git reset --hard commint_id(版本id)
 这个是修改了的未提交回滚命令 git checkout -- life.txt
+我再次修改等待删除
